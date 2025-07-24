@@ -25,9 +25,10 @@ A responsive and modern cosmetic website built using **HTML**, **CSS**, and **Ja
 
 ## 📸 Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Product Section](screenshots/products.png)
-![Responsive View](screenshots/mobile-view.png)
+![Homepage](Screenshot_(109).png)
+![Product Section](Screenshot_(108).png)
+![Responsive View](cos1.jpg)
+![Responsive View](cos2.jpg)
 
 > Make sure you have a `screenshots/` folder in your project root and place the respective images inside it.
 
